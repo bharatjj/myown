@@ -40,7 +40,14 @@ public class AppController2 {
 	    }
 	 
 	 
-	 @RequestMapping("/add123456")
+	 @RequestMapping("/add12345678")
+	 
+	 public void addCustomer9()
+	 
+	 {
+		 addTopicDemo();
+	 }
+ @RequestMapping("/add123456789")
 	 
 	 public void addCustomer()
 	 
