@@ -40,7 +40,7 @@ public class AppController2 {
 	    }
 	 
 	 
-	 @RequestMapping("/add12345")
+	 @RequestMapping("/add123456")
 	 
 	 public void addCustomer()
 	 
