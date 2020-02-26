@@ -10,6 +10,7 @@ public class Sample {
 		
 		System.out.println("hello commit 1");
 		
+		System.out.println("hello commit 2");
 	}
 
 }
